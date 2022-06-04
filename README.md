@@ -1,3 +1,4 @@
+### Runner-up [LinkedIn Post](https://www.linkedin.com/posts/aryan-31ab60191_eygds-hackpions4-delhi-activity-6933353902356471808-0DvY?utm_source=linkedin_share&utm_medium=member_desktop_web)
 ## How to run
 
 * Open [Colab notebook link](https://colab.research.google.com/drive/1GJPdFMjb049-ylHyng_M1MaLtF2R9gOa?usp=sharing)
