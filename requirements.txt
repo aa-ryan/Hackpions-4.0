@@ -1,0 +1,8 @@
+openpyxl
+camelot-py
+opencv-python
+numpy
+pandas
+imutils
+sqlalchemy
+kraken
